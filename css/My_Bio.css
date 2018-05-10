@@ -1,0 +1,26 @@
+.headshot {
+    height: 300px;
+    width: 300px;
+}
+
+#picture {
+    height: 400px;
+    width: 400px;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+#mainHeading {
+    color: lightseagreen;
+}
+
+.name {
+    border-style: solid;
+    border-color: olivedrab;
+    border-width: 10px;
+    padding: 20px;
+    text-align: center;
+}
